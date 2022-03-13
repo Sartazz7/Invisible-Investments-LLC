@@ -7,16 +7,15 @@ The iframe can be removed using the 'Show Page' Button.
 
 Run the following commands in the terminal
 
-git clone ...
-cd assignment
-npm i
-npm start
+git clone .https://github.com/Sartazz7/Invisible-Investments-LLC <br />
+npm i <br />
+npm start <br />
 
 Then go to the link http://localhost:3000/
 
 ## Stacks used
 
-React
-React-Bootstrap
-HTML
-CSS
+React <br />
+React-Bootstrap <br />
+HTML <br />
+CSS <br />
