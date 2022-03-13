@@ -7,7 +7,7 @@ The iframe can be removed using the 'Show Page' Button.
 
 Run the following commands in the terminal
 
-git clone .https://github.com/Sartazz7/Invisible-Investments-LLC <br />
+git clone https://github.com/Sartazz7/Invisible-Investments-LLC <br />
 npm i <br />
 npm start <br />
 
