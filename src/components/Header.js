@@ -7,13 +7,14 @@ const Header = () => {
 			<Navbar bg='primary' variant='dark'>
 				<Container>
 					<Navbar.Brand href='#home' className='m-auto'>
-						Invisible Investments
+						Invisible Investments LLC
 					</Navbar.Brand>
 				</Container>
 			</Navbar>
 			<Container>
-				<Card className='m-auto mt-5'>
+				<Card className='m-auto mt-5 text-center'>
 					<Card.Body>
+						<Card.Title className='m-auto'>Description</Card.Title>
 						<Card.Text>
 							Nam nec elit mollis, mollis est nec, efficitur
 							justo. Nulla facilisi. Mauris ac elementum nibh. Nam
